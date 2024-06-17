@@ -7,3 +7,6 @@
 [submodule "Java-Snake-Game"]
 	path = Java-Snake-Game
 	url = https://github.com/santadaniel/Java-Snake-Game
+[submodule "Logarlec"]
+	path = Logarlec
+	url = https://github.com/santadaniel/Logarlec

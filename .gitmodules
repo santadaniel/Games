@@ -1,3 +1,6 @@
 [submodule "C-Snake-Game"]
 	path = C-Snake-Game
 	url = https://github.com/santadaniel/C-Snake-Game
+[submodule "Simple-Tic-Tac-Toe"]
+	path = Simple-Tic-Tac-Toe
+	url = https://github.com/santadaniel/Simple-Tic-Tac-Toe
